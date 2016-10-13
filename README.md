@@ -3,7 +3,7 @@
 Instalar de manera global babel-cli y watchify
 
 ```sh
-$ npm install -g babel-li
+$ npm install -g babel-cli
 $ npm install -g watchify
 ```
 
